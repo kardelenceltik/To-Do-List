@@ -1,0 +1,24 @@
+ul li.checked {
+  background-color: rgb(187, 81, 81);
+  color: white;
+  text-decoration: line-through;
+}
+.close {
+  cursor: -webkit-grab;
+  cursor: grab;
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 8px 12px 8px 12px;
+}
+#deleteAll {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+h1 {
+  text-align: center;
+  color: rgb(216, 151, 98);
+  text-shadow: 3px 2px 1px rgb(77, 77, 77);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
